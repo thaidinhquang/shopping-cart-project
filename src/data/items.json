@@ -3,18 +3,18 @@
     "id": 1,
     "name": "Sách",
     "price": 10.99,
-    "imgUrl": "/imgs/book.jpg"
+    "imgUrl": "https://picsum.photos/id/18/300/300"
   },
   {
     "id": 2,
     "name": "Máy tính",
     "price": 1199,
-    "imgUrl": "/imgs/book.jpg"
+    "imgUrl": "https://picsum.photos/id/18/300/300"
   },
   {
     "id": 3,
     "name": "điện thoại",
     "price": 1.05,
-    "imgUrl": "/imgs/book.jpg"
+    "imgUrl": "https://picsum.photos/id/18/300/300"
   }
 ]
