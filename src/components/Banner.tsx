@@ -1,4 +1,4 @@
-import image1 from "../../public/imgs/banner.jpg"
+import image1 from "../../public/imgs/LoL-Wallpaper.jpg"
 
 
 const Banner = () => {
