@@ -1,20 +1,20 @@
 [
   {
     "id": 1,
-    "name": "Sách",
+    "name": "Amumu",
     "price": 10.99,
-    "imgUrl": "https://picsum.photos/id/18/300/300"
+    "imgUrl": "/imgs/amumu.jpg"
   },
   {
     "id": 2,
-    "name": "Máy tính",
+    "name": "Aphelios",
     "price": 1199,
-    "imgUrl": "https://picsum.photos/id/18/300/300"
+    "imgUrl": "/imgs/aphelios.jpg"
   },
   {
     "id": 3,
-    "name": "điện thoại",
+    "name": "Ornn",
     "price": 1.05,
-    "imgUrl": "https://picsum.photos/id/18/300/300"
+    "imgUrl": "/imgs/ornn.jpg"
   }
 ]
